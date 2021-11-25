@@ -1,0 +1,1 @@
+<P style="center">COBA DI INGAT LAGI</P><?php /**PATH C:\xampp\htdocs\laraschool-master\resources\views/auth/forgot-password.blade.php ENDPATH**/ ?>
